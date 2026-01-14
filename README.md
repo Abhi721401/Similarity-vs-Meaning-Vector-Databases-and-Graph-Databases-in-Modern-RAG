@@ -11,6 +11,7 @@ LLM-based grounded answering (Groq LLaMA 3.1)
 The goal is to show how semantic similarity + structured relationships together improve factual question answering and reduce hallucinations.
 
 # 🔍 Why Hybrid RAG?
+![RAG Pipeline Diagram](Goal.PNG)
 
 Vector RAG is good at finding similar text but weak at multi-hop reasoning.
 
